@@ -6,16 +6,16 @@ var ios = new Umeng();
 //android 初始化
 android.initialize({
     platform: 'android',
-    appKey: '58f5799c310c937e0800171b',
-    appMasterSecret: 'mhibubgpfuuzxgzw0jog3rfjhcvt47g5',
+    appKey: '888888888888888',
+    appMasterSecret: 'mhibubgpfuuzxgyyy',
     production_mode: 'true'
 });
 
 //ios 初始化
 ios.initialize({
     platform: 'ios',
-    appKey: '58f5799c310c937e0800171b',
-    appMasterSecret: 'mhibubgpfuuzxgzw0jog3rfjhcvt47g5',
+    appKey: '888888888888888',
+    appMasterSecret: 'mhibubgpfuuzxgyyy',
     production_mode: 'true'
 });
 
